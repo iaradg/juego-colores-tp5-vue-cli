@@ -19,7 +19,7 @@ import Juego from './components/JuegoColores.vue'
 import Navbar from './components/NavBar.vue'
 export default {
   name: 'App',
-  
+
   components: {
    Juego,
    Navbar
